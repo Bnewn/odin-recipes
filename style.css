@@ -1,0 +1,32 @@
+h1, h2 {
+    text-align: center;
+    font-weight: 600;
+    font-family:sans-serif;
+    text-decoration: underline;
+}
+
+.kitchen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#all-recipes{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.home-button{
+    background-color: lightcyan;
+    font-weight: bold;
+    font-size: 16px;
+}
